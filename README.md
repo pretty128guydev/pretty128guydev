@@ -2,10 +2,13 @@
 
 ## I AM SENIOR FULL-STACK DEVELOPER.
 
-### 💻 &nbsp;About Me 
+### 🌟WHY CHOOSE ME OVER OTHER FREELANCERS? 🌟
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+🛠️ Clean and Fast result
+✨ Rich experience
+💼 Strong portfolio
+💯 Meeting deadlines
+👩‍🎓 Trustworthy responsibility
 
 
 ### 🛠 &nbsp;Tech Stack
