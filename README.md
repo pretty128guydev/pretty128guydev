@@ -4,11 +4,11 @@
 
 ### 🌟WHY CHOOSE ME OVER OTHER FREELANCERS? 🌟
 
-🛠️ Clean and Fast result
-✨ Rich experience
-💼 Strong portfolio
-💯 Meeting deadlines
-👩‍🎓 Trustworthy responsibility
+## 🛠️ Clean and Fast result
+## ✨ Rich experience
+## 💼 Strong portfolio
+## 💯 Meeting deadlines
+## 👩‍🎓 Trustworthy responsibility
 
 
 ### 🛠 &nbsp;Tech Stack
